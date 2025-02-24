@@ -135,7 +135,7 @@ session_start();
         </div>
       </div>";
         } else {
-          echo "<a href='aboutWorker.php?id=$id'><form action='aboutWorker.php' method='post'>More</a>
+          echo "<a href='aboutWorker.php?id=$id'>More</a>
           </div>
         </div>";
         }

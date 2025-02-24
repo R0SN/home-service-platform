@@ -12,6 +12,7 @@ body {
 }
 
 .card {
+  min-width: 200px;
   max-width: 300px;
   border-radius: 0.5rem;
   background-color: #ddd;

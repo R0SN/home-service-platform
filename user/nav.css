@@ -28,18 +28,19 @@ nav .hovers:hover {
   color: black;
 }
 
-nav a:link,
+/* nav a:link,
 nav a:visited {
   text-decoration: none;
-}
+} */
 
 .logo-container {
-  position: absolute;
-  margin: 0 350px;
+  position: absolute  ;
+  display: inline-block;
+  margin: 0 0 0 -100px;
 }
 
 .logo {
-  max-height: 50px;
+  height: 50px;
 }
 
 .profile-icon {
